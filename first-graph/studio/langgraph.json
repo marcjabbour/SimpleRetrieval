@@ -2,7 +2,8 @@
     "dockerfile_lines": [],
     "graphs": {
       "first_graph_attempt": "./graphMain.py:graph",
-      "simple_graph": "./simple.py:graph"
+      "simple_graph": "./simple.py:graph",
+      "second_graph_attempt": "./graphAlt.py:graph"
     },
     "env": "./.env",
     "python_version": "3.11",
